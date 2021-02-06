@@ -1,0 +1,4 @@
+*   @electronicbits
+*.js    @electronicbits
+*.yml   @electronicbits
+/public/    @electronicbits
