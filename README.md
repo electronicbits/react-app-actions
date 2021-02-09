@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project has also a full on pipeline for testing, build and deployment to both a Staging/Test and Production environments
 
+Check [Actions](https://github.com/electronicbits/react-app-actions/actions)
+
 ## Available Scripts
 
 In the project directory, you can run:
